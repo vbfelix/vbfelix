@@ -9,10 +9,10 @@
 
 <!-- badges: end -->
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vbfelix&show_icons=true&theme=great-gatsby" alt="tomondre" />
+
 - 📦 My main open source project is the R package: [relper](https://vbfelix.github.io/relper/) 
 - 🔗 Also take a look at my website at: <https://vbfelix.github.io/> 
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vbfelix&show_icons=true&theme=great-gatsby" alt="tomondre" />
 
 
 Have a look at my repositories below ⬇️
