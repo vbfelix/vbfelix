@@ -9,8 +9,7 @@
 
 <!-- badges: end -->
 
-- 🔨 My main project is the R package 📦,
-  [relper](https://vbfelix.github.io/relper/) 
+- 📦 My main project is the R package [relper](https://vbfelix.github.io/relper/) 
 - 🔗 Also my website at: <https://vbfelix.github.io/> 
 
 Have a look at my repositories below ⬇️
