@@ -9,8 +9,8 @@
 
 <!-- badges: end -->
 
-- 🔨 I’m currently working on the next version of the
-  [relper](https://vbfelix.github.io/relper/) package 📦
-- 🔗 Visit my website at: <https://vbfelix.github.io/>
+- 🔨 My main project is the R package 📦,
+  [relper](https://vbfelix.github.io/relper/) 
+- 🔗 Also my website at: <https://vbfelix.github.io/> 
 
 Have a look at my repositories below ⬇️
