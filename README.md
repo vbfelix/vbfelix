@@ -1,6 +1,7 @@
 ### I am Vinícius
 
-<!-- badges: start -->
+<!-- badges: start --> 
+[comment]: <> (https://shields.io/category/other)
 
 <a href="https://twitter.com/vbfelix" target="blank"><img src="https://img.shields.io/twitter/follow/vbfelix?label=Twitter&amp;style=social" alt="Followers on Twitter"/></a>
 <a href="https://stackoverflow.com/users/9696037/vin%c3%adcius-f%c3%a9lix" target="blank"><img src="https://img.shields.io/stackexchange/stackoverflow/r/9696037?label=Reputation&amp;logo=StackOverflow&amp;logoColor=orange&amp;style=social" alt="StackOverflow Profile"/></a>
