@@ -12,7 +12,7 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vbfelix&show_icons=true&theme=great-gatsby" alt="tomondre" />
 
 - 📦 My main open source project is the R package: [relper](https://vbfelix.github.io/relper/) 
-- 💬 Ping me about R, SQL, Statistics and Data Science.
+- 💬 Ping me about R, SQL, Statistics and Data Science
 - 🔗 Also take a look at my website at: <https://vbfelix.github.io/> 
 
 
