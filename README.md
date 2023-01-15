@@ -13,7 +13,6 @@
 
 - 📦 My main open source project is the R package: [relper](https://vbfelix.github.io/relper/) 
 - 💬 Ping me about R, SQL, Statistics and Data Science
-- 🔗 Also take a look at my website at: <https://vbfelix.github.io/> 
+- 🔗 If you want to know more about me, there is my website at: <https://vbfelix.github.io/> 
 
-
-Have a look at my repositories below ⬇️
+And also take a look at my repositories below ⬇️
