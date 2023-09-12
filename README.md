@@ -23,9 +23,6 @@ And also take a look at my stats and repositories below ⬇️
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=vbfelix&show_icons=true&theme=great-gatsby" alt="tomondre" />
   
-[![Top Backend Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vbfelix&layout=compact&langs_count=6&hide=JavaScript,CoffeeScript,CSS,HTML,TypeScript&custom_title=Top%20Backend%20Languages&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Frontend Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vbfelix&layout=compact&hide=C%23,Rust,Shell,PowerShell&custom_title=Top%20Frontend%20Languages&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vbfelix)](https://github.com/anuraghazra/github-readme-stats)
 
 
