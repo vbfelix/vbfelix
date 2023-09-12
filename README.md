@@ -21,7 +21,7 @@ As I am passionate about bridging theory and real-world applications, my goal is
 
 And also take a look at my stats and repositories below ⬇️
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=vbfelix&show_icons=true&theme=great-gatsby" alt="tomondre" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=vbfelix&show_icons=true" alt="tomondre" />
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vbfelix)](https://github.com/anuraghazra/github-readme-stats)
 
