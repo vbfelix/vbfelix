@@ -9,7 +9,7 @@
 
 <!-- badges: end -->
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vbfelix&show_icons=true&theme=great-gatsby" alt="tomondre" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=vbfelix&show_icons=true&theme=great-gatsby" alt="tomondre" />
   
 [![Top Backend Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vbfelix&layout=compact&langs_count=6&hide=JavaScript,CoffeeScript,CSS,HTML,TypeScript&custom_title=Top%20Backend%20Languages&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
