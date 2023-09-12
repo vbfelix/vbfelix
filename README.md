@@ -1,4 +1,10 @@
-### I am Vinícius F[elix
+### I am Vinícius Félix
+
+I am a seasoned statistician with technical and managerial experience, as well as a solid background in time-series analysis, geostatistics, and data visualization gained while pursuing a Bachelor of Statistics and a Master of Biostatistics.
+
+While co-founder of H0 Consultoria, I’ve contributed to over 350 scientific studies and 40 business surveys, providing valuable insights to organizations. Following my hands-on technical phase, I advanced to management positions such as R&D, Data and Strategy Manager, and now Services Manager.
+
+As I am passionate about bridging theory and real-world applications, my goal is to empower organizations to make data-driven decisions and optimize their operations using statistical insights.
 
 <!-- badges: start --> 
 [comment]: <> (https://shields.io/category/other)
