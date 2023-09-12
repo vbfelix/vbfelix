@@ -1,4 +1,4 @@
-### I am Vinícius
+### I am Vinícius F[elix
 
 <!-- badges: start --> 
 [comment]: <> (https://shields.io/category/other)
@@ -10,6 +10,11 @@
 <!-- badges: end -->
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vbfelix&show_icons=true&theme=great-gatsby" alt="tomondre" />
+  
+[![Top Backend Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vbfelix&layout=compact&langs_count=6&hide=JavaScript,CoffeeScript,CSS,HTML,TypeScript&custom_title=Top%20Backend%20Languages&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Frontend Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vbfelix&layout=compact&hide=C%23,Rust,Shell,PowerShell&custom_title=Top%20Frontend%20Languages&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 - 📦 My main open source project is the R package: [relper](https://vbfelix.github.io/relper/) 
 - 💬 Ping me about R, SQL, Statistics and Data Science
