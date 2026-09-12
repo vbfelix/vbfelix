@@ -19,10 +19,7 @@ As I am passionate about bridging theory and real-world applications, my goal is
 - 💬 Ping me about R, SQL, Statistics and Data Science
 - 🔗 If you want to know more about me, there is my website at: <https://vbfelix.github.io/> 
 
-And also take a look at my stats and repositories below ⬇️
+And also take a look at my website ⬇️
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=vbfelix&show_icons=true" alt="tomondre" />
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vbfelix)](https://github.com/anuraghazra/github-readme-stats)
-
+ [About me]([https://vbfelix.github.io/relper/](https://vbfelix.github.io/)) 
 
