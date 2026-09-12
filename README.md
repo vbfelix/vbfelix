@@ -16,10 +16,5 @@ While co-founder of H0 Consultoria, I’ve contributed to over 350 scientific st
 As I am passionate about bridging theory and real-world applications, my goal is to empower organizations to make data-driven decisions and optimize their operations using statistical insights.
 
 - 📦 My main open source project is the R package: [relper](https://vbfelix.github.io/relper/) 
-- 💬 Ping me about R, SQL, Statistics and Data Science
+- 💬 Ping me about AI, SQL, Statistics and Data Science
 - 🔗 If you want to know more about me, there is my website at: <https://vbfelix.github.io/> 
-
-And also take a look at my website ⬇️
-
- [About me]([https://vbfelix.github.io/relper/](https://vbfelix.github.io/)) 
-
